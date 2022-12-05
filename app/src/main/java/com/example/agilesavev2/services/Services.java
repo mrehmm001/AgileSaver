@@ -42,9 +42,7 @@ public class Services {
     private Retrofit retrofit;
     private Repository repository;
     private static DatabaseHelper databaseHelper;
-    //http://10.0.2.2:3000/ for logcal back end
-    //https://agile-saver-back-end.herokuapp.com/ for remote heroku back end
-    private String BASE_URL = "https://agile-saver-back-end.herokuapp.com/";
+    private String BASE_URL = "https://agile-saver-backend.onrender.com/";
     private Presenter presenter;
 
 
