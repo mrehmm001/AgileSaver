@@ -1,14 +1,13 @@
 
 
 
-![](/Preview.jpg)
+# Agile Saver: Personal Budgeting Application
 
+![Preview of Agile Saver](/Preview.jpg)
 
-![](/app/src/main/res/drawable/logo.png)
+![Agile Saver Logo](/app/src/main/res/drawable/logo.png)
 
-
-
-
+## Concept Overview
 
 The concept is a personal budgeting application that uses machine learning/AI to keep
 track of expenses, learns spending patterns and recommends deviations to the user’s day
@@ -25,4 +24,25 @@ goals, track their progress to completion with easy-to-understand visual graphs,
 add multiple bank accounts for the AI to analyse as one. Through learning the spending patterns the
 AI can then learn to predict an incoming expense and warn the user to be careful.
 
-Download link for the app: https://drive.google.com/file/d/1shzVsCQz51zgxTNLIU3SsS3xLC1exxmH/view?usp=sharing
+
+## Features and Functionality
+
+- **AI-Powered Analysis**: The application analyses spending patterns to suggest areas for saving money.
+- **Goal Setting and Progress Tracking**: Set saving goals and track progress with intuitive visual graphs.
+- **Budget Management**: Easily set and manage budgets.
+- **Account Integration**: Add multiple bank accounts for a comprehensive analysis.
+- **Predictive Alerts**: AI predicts upcoming expenses and alerts the user.
+
+## Technical Stack
+
+- **Programming Language**: Java
+- **Mobile Development Framework**: Android Studio
+- **Server-Side Technology**: Node.js
+- **AI & Machine Learning**: Tensorflow
+- **User Interface Design**: XML
+- **Build Automation Tool**: Maven
+
+## Download
+
+[Download Agile Saver](https://drive.google.com/file/d/1uHh2cQpat3ZJsikHRj1ccYP9LN7-_Meu/view?usp=drive_link)
+
